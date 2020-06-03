@@ -1,3 +1,25 @@
 body {
   background-color: rgb(124, 158, 168);
 }
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  font-family: Helvetica;
+  font-weight: 600;
+  font-size: 2em;
+  list-style-type: none;
+  color:rgb(237, 248, 239);
+}
+
+li {
+  border-bottom: 1px solid rgb(172, 107, 65);
+}
+
+
+
+
